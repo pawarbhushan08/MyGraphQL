@@ -53,6 +53,7 @@ class PostDetailsViewModelTest {
     fun tearDown() {
         objectUnderTest.post.removeObserver(postObserver)
     }
+
     @Test
     fun `when calling for a specific post then return loading`() {
         testCoroutineRule.runBlockingTest {
