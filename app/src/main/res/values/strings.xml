@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My GraphQL</string>
+    <string name="no_posts_found">No posts found</string>
+    <string name="post_empty_message">No posts available</string>
+    <string name="post_title">Post Title: </string>
+    <string name="post_description">Post Description: </string>
+    <string name="post_creator">Post Created By: </string>
+    <string name="post_creator_username">Creator User Name: </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "posts": {
+      "__typename": "Posts",
+      "data": [
+        {
+          "__typename": "Post",
+          "id": "1",
+          "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+        },
+        {
+          "__typename": "Post",
+          "id": "2",
+          "title": "qui est esse"
+        }
+      ],
+      "meta": null
+    }
+  }
+}

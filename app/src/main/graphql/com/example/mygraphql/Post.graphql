@@ -1,0 +1,11 @@
+query Post($postId: ID!){
+    post(id: $postId) {
+        id
+        title
+        body
+        user{
+            name
+            username
+        }
+    }
+}
